@@ -8,7 +8,7 @@ Développeur en 2ème année de BUT Informatique | Passionné par le développem
 
 ## 📂 Projets
 - [SI-Chat](https://si-chat.app) : Messagerie web temps réel
-- [Bumpless - Battle Tank](https://si-chat.app) : Jeu de combat de tank
+- [Bumpless](https://si-chat.app) : Jeu de combat de tank
 - [FlexiPass]() : Générateur de mot passe avec sauvegarde
 - [Sirtet]() : Jeu de briques empilables
 
