@@ -6,7 +6,7 @@ Développeur en 2ème année de BUT Informatique | Passionné par le développem
 - Java, Python, SQL, HTML/CSS, Git, PostgreSQL, Linux
 
 ## 📂 Projets
-- [SI Chat](https://github.com/anasSibarni/si-chat) : Messagerie web temps réel
+- [SI Chat](https://si-chat.app) : Messagerie web temps réel
 
 ## 🌐 Me contacter
 - LinkedIn : [Anas Sibarni](https://www.linkedin.com/in/anas-sibarni-b286642b4/)
