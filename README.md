@@ -1,6 +1,6 @@
 # Anas Sibarni 
 
-Développeur en 2ème année de BUT Informatique | Passionné par le développement logiciel et web
+Développeur en 2ème année de BUT Informatique | Passionné par le développement logiciel et web  
 🎯 [si-chat.app](https://si-chat.app)
 
 ## 💻 Compétences
@@ -9,7 +9,7 @@ Développeur en 2ème année de BUT Informatique | Passionné par le développem
 ## 📂 Projets
 - [SI-Chat](https://github.com/Anas-SIBARNI/si-chat) : Messagerie web temps réel
 - [Bumpless](https://github.com/Anas-SIBARNI/bumpless) : Jeu de combat de tank
-- [FlexiPass]() : Générateur de mot passe avec sauvegarde
+- [FlexiPass](https://github.com/Anas-SIBARNI/flexipass) : Générateur de mot passe avec sauvegarde
 - [Sirtet]() : Jeu de briques empilables
 
 ## ✅ Tech Stack
