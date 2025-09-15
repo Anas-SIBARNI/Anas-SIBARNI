@@ -7,7 +7,7 @@ Développeur en 2ème année de BUT Informatique | Passionné par le développem
 - Java, Python, SQL, HTML/CSS, Git, PostgreSQL, Linux
 
 ## 📂 Projets
-- [SI-Chat](https://si-chat.app) : Messagerie web temps réel
+- [SI-Chat](https://github.com/Anas-SIBARNI/si-chat) : Messagerie web temps réel
 - [Bumpless](https://github.com/Anas-SIBARNI/bumpless) : Jeu de combat de tank
 - [FlexiPass]() : Générateur de mot passe avec sauvegarde
 - [Sirtet]() : Jeu de briques empilables
