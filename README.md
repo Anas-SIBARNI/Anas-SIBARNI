@@ -1,6 +1,6 @@
 # Anas Sibarni 
 
-Développeur en 2ème année de BUT Informatique | Passionné par le développement logiciel et web  
+Développeur en 2ème année de BUT Informatique | Passionné par le développement logiciel et web ainsi que les base de donénes  | Recherche un stage (avril 2026) et une alternance (2027-2028)
 🎯 [si-chat.app](https://si-chat.app)
 
 ## 💻 Compétences
